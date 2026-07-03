@@ -6,6 +6,8 @@ Projeto final da disciplina EEL7415/7515 - Tópicos Avançados em Telecomunicaç
 UFSC - Prof. Richard Demo Souza
 Autor: José Eduardo Pereira (23200252)
 
+**vídeo de apresentação:** https://youtu.be/zqdg2aEXK80
+
 ---
 
 ## arquitetura
